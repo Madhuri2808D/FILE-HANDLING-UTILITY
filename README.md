@@ -15,7 +15,7 @@
 ##Description about the code: The File Handling Utility is a Java program that allows users to perform essential file operations such as writing to a file, reading from a file, and modifying existing content. The program runs in a loop, providing a menu-driven interface where users can select different options for interacting with the file.
 
 
-*Tools & Technologies Used*: 
+##*Tools & Technologies Used*: 
 
 *Java*: Used for writing the program logic.
 
@@ -25,14 +25,14 @@
 
 *File I/O (java.io package)*: Used for reading, writing, and modifying files.
 
-*Commands Used*:
+##*Commands Used*:
 
 *1.Compile the Java file*: javac FileUtility.java
 
 *2.Run the program*: java FileUtility
 
 
-*Working of the Program*:
+##*Working of the Program*:
 
 The user selects an option from the menu.
 
@@ -45,7 +45,7 @@ If Modify File is selected, the user provides a word to replace, and the program
 The program uses BufferedReader, BufferedWriter, and FileReader for file operations.
 
 
-*Applications*:
+##*Applications*:
 
 Useful in applications requiring persistent data storage.
 
