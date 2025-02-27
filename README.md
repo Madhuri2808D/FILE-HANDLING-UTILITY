@@ -52,3 +52,9 @@ Useful in applications requiring persistent data storage.
 Can be used in logging systems.
 
 Basis for building text-based database management.
+
+
+##Output: 
+
+![Image](https://github.com/user-attachments/assets/928b80e1-b944-433e-ad82-df813186fb91)
+
