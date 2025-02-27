@@ -34,24 +34,24 @@
 
 ##*Working of the Program*:
 
-The user selects an option from the menu.
+1.The user selects an option from the menu.
 
-If Write to File is selected, the program appends new content to myfile.txt.
+2.If Write to File is selected, the program appends new content to myfile.txt.
 
-If Read from File is selected, the program reads and displays the file contents.
+3.If Read from File is selected, the program reads and displays the file contents.
 
-If Modify File is selected, the user provides a word to replace, and the program updates all occurrences of that word in myfile.txt.
+4.If Modify File is selected, the user provides a word to replace, and the program updates all occurrences of that word in myfile.txt.
 
-The program uses BufferedReader, BufferedWriter, and FileReader for file operations.
+5.The program uses BufferedReader, BufferedWriter, and FileReader for file operations.
 
 
 ##*Applications*:
 
-Useful in applications requiring persistent data storage.
+1.Useful in applications requiring persistent data storage.
 
-Can be used in logging systems.
+2.Can be used in logging systems.
 
-Basis for building text-based database management.
+3.Basis for building text-based database management.
 
 
 ##Output: 
