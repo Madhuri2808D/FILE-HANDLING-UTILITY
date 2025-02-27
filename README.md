@@ -17,13 +17,13 @@
 
 ##*Tools & Technologies Used*: 
 
-*Java*: Used for writing the program logic.
+1.*Java*: Used for writing the program logic.
 
-*VS Code*: Used as the code editor for writing and saving the Java program.
+2.*VS Code*: Used as the code editor for writing and saving the Java program.
 
-*Command Prompt (CMD)*: Used to compile and execute the program.
+3.*Command Prompt (CMD)*: Used to compile and execute the program.
 
-*File I/O (java.io package)*: Used for reading, writing, and modifying files.
+4.*File I/O (java.io package)*: Used for reading, writing, and modifying files.
 
 ##*Commands Used*:
 
